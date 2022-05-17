@@ -51,7 +51,7 @@
         "isotope-layout": "^3.0.6",
         "jose": "^4.1.0",
         "jquery": "^3.4.1",
-        "lodash": "^4.17.13",
+        "lodash": "^4.17.21",
         "loglevel": "^1.6.2",
         "mocha": "^5.2.0",
         "nock": "^13.1.3",
